@@ -1,0 +1,9 @@
+# Ignore database
+db.sqlite3
+*.sqlite3
+Backend/server/db.sqlite3
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+Backend/server/__pycache__/
